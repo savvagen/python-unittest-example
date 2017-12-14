@@ -1,0 +1,11 @@
+
+Будет удалено .gitignore
+Будет удалено .idea/
+Будет удалено chromedriver
+Будет удалено object/
+Будет удалено requirements.txt
+Будет удалено ui_tests/
+
+/.idea
+/.cache
+/ui_tests/.cache
